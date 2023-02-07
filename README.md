@@ -26,3 +26,8 @@ From comparing the above 2 results,
 * the minimum recorded temperature for June was __64°F__ and December was __56°__,
 * the temperature difference between the maximum and minimum for June was __21__ and December was __27__.
 
+### Recomendation
+Assuming that the June is the hottest month and the December is the coldest month within the year, the idea of opening the shops seems ideal.
+
+If we want to deep in a little more, I recommend getting a specific location where to open the shop and filtering the weather stations that is to recieve data that is farely closer to the shop.
+Also, assuming that the shop will not be open 24 hours, if we can filter the weather data within business hours we would be able to get a better grasp on the temperature to decide to open the shops or not.
